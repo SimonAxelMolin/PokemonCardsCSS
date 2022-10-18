@@ -1,0 +1,39 @@
+.grid-container {
+    display: grid;
+}
+
+.cardFrame {
+    background-color: rgb(196, 196, 196);
+    width: 500px;
+    height: 700px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.rayquaza {
+    display: block;
+    width: 80%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2px;
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+}
+
+.stats{
+    background-color: rgb(216, 216, 216) ;
+    margin: auto;
+    width: 85%;
+    height: 30%;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h5 {
+    padding-top: 5%;
+    padding-left: 5%;
+    margin-top: 7%;
+    font-size: 25px;
+}
+
+
